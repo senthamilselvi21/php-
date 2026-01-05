@@ -10,4 +10,5 @@ echo "<table border=1 cell spacing=0 cellpadding=0>
 <tr> <td><font color=blue>Salary of Mr. C is</td>
 <td>$c$</font></td></tr>
 </table>";
+
 ?>
